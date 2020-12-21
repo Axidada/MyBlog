@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8207eb7-f8c8-4b18-9104-67668e58d99b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-frontend/src/components/footer/CommonFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/src/components/footer/CommonFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-frontend/static/config/index-dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/static/config/index-dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog-manage-frontend/src/views/common/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-manage-frontend/src/views/common/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-frontend/src/components/content/ArticleContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/src/components/content/ArticleContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-frontend/src/components/content/BookContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/src/components/content/BookContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-frontend/src/components/content/BookNoteContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/src/components/content/BookNoteContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog-frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myblog-frontend/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
