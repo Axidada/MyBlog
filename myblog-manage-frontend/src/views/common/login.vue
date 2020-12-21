@@ -3,8 +3,8 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">db's Blog</h2>
-          <p class="brand-info__intro">这是一个努力成长中的小小程序猿 and 要永远相信美好的事情即将发生！</p>
+          <h2 class="brand-info__text">Easy Blog</h2>
+          <p class="brand-info__intro">努力改变IT现状的Young boy</p>
         </div>
         <div class="login-main">
           <h3 class="login-title">管理员登录</h3>
@@ -106,7 +106,7 @@ export default {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(38, 50, 56, .6);
+    //background-color: rgba(38, 50, 56, .6);
     overflow: hidden;
     &:before {
       position: fixed;
@@ -132,11 +132,12 @@ export default {
       background-color: transparent;
     }
     .site-content {
-      min-height: 100%;
-      padding: 30px 500px 30px 30px;
+      //min-height: 100%;
+      padding: 30px 30px 30px 30px;
     }
     .brand-info {
-      margin: 220px 100px 0 90px;
+      text-align: center;
+      margin: 100px 100px 0 90px;
       color: #fff;
     }
     .brand-info__text {
@@ -152,12 +153,15 @@ export default {
     }
     .login-main {
       position: absolute;
-      top: 0;
-      right: 0;
-      padding: 150px 60px 180px;
+      top: 40%;
+      //right: 0;
+      padding: 60px 60px 60px;
       width: 470px;
+      margin: 0 auto;
       min-height: 100%;
-      background-color: #fff;
+      //background-color: #fff;
+      background: rgba(0,0,0,.1);
+      color: white;
     }
     .login-title {
       font-size: 16px;

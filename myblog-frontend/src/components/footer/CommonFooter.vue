@@ -16,7 +16,7 @@ export default {
     return {
       siteInfo: {
         icp: '鲁ICP备20021488号',
-        copyright: '版权所有 © 2019 - 2019',
+        copyright: '版权所有 © 2019 - 2021',
         copyright_desc: '以社交更多的IT志同道合的朋友一起分享自己的经验和知识,均已公开公正一起进步为目的'
       }
     }
